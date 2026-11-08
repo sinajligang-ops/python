@@ -1,0 +1,5 @@
+name = input("Привет, Как тебя зовут ?:")
+colour = input("Какой твой любимый цвет ?:")
+print("\n --- Имя и цвет ---")
+print(f"Имя: {name.capitalize()}")
+print(f"любимый цвет: {colour.capitalize()}")

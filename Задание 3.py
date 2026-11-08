@@ -1,0 +1,8 @@
+Word1 = input()
+Word2 = input()
+print(len(Word1))
+print(len(Word2))
+print(Word1.upper())
+print(Word2.upper())
+print(Word1, Word2)
+print(Word1 * 3)
